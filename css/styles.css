@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-image: linear-gradient( 109.6deg,  rgba(8, 18, 31,1) 11.2%, rgba(13, 62, 92,1) 91.1% );
+}
+#main{
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.content{
+    padding: 5px;
+}
+
+
+#demo{
+    text-align: center;
+    /*padding: 5%;*/
+}
+
+.logo h2{
+    margin-bottom: 0px;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Vujahday Script', cursive;
+}
+
