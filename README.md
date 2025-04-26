@@ -3,18 +3,14 @@
 
 🌟 Features
 - ✅ Fully responsive layout
-
 - 🖼️ Grid-based image gallery
-
 - 💡 Simple and lightweight
-
 - 📱 Optimized for mobile and desktop
-
 - 🎨 Easy to customize
-
 - 📷 Preview
 
-<sup><em>(Add a screenshot named preview.png in the repo root for this to work)</em></sup>
+<sup><em>![image](https://github.com/user-attachments/assets/d29d0571-b2c2-48a0-b8cf-041c6bc514e4)
+</em></sup>
 
 🛠️ Technologies Used
 - HTML5
