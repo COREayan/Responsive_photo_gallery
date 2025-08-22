@@ -19,10 +19,17 @@ Perfect for photographers, designers, and developers to showcase images seamless
 
 ---
 
-**🛠️ Technologies Used**
-- HTML5
-- CSS3 (Flexbox/Grid)
-- JavaScript (optional enhancements)
+## 🛠️ Technologies Used
+- **HTML5** – semantic structure  
+- **CSS3** – responsive layouts with Flexbox & Grid  
+- **JavaScript** – optional interactivity & enhancements  
 
-**🧠 Learning Purpose**
-This project was created as a hands-on exercise to strengthen front-end development skills and explore responsive web design techniques.
+---
+
+## 🧠 Learning Purpose
+This project was built as a **hands-on exercise** to:  
+- Strengthen core **front-end development skills**  
+- Practice **responsive web design techniques**  
+- Gain confidence in creating **modern, mobile-friendly UIs**  
+
+---
